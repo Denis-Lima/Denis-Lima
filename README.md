@@ -29,5 +29,6 @@
 
 - 🔭 I’m currently working on [SuperClient Solutions](https://novo.superclientsolutions.com/)
 - 🌱 I’m currently learning Typescript
+- 🎓 I’m currently studying at [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/felelima/)
+![Snake animation](https://github.com/Denis-Lima/Denis-Lima/blob/output/github-contribution-grid-snake.svg)
