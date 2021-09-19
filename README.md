@@ -31,4 +31,3 @@
 - 🌱 I’m currently learning Typescript
 - 🎓 I’m currently studying at [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
 
-![Snake animation](https://github.com/Denis-Lima/Denis-Lima/blob/output/github-contribution-grid-snake.svg)
