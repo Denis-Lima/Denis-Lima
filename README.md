@@ -28,6 +28,6 @@
 ##
 
 - 🔭 I’m currently working on [SuperClient Solutions](https://novo.superclientsolutions.com/)
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Python
 - 🎓 I’m currently studying at [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
 
