@@ -27,7 +27,7 @@
 
 ##
 
-- 🔭 I’m currently working on [SuperClient Solutions](https://novo.superclientsolutions.com/)
-- 🌱 I’m currently learning Python
-- 🎓 I’m currently studying at [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
+- 🔭 I’m currently working on [SuperClient Solutions](https://novo.superclientsolutions.com/) and [Codifica ai](https://codificaai.com/)
+- 🌱 I’m currently learning Python, TypeScript and Vue 3 (compostion API)
+- 🎓 I'm graduated from institution [Fatec SJC](https://fatecsjc-prd.azurewebsites.net/)
 
